@@ -1,17 +1,0 @@
-Êþº¾   A .
-       java/lang/Object <init> ()V   java/util/Scanner	 
- 
-   
-  java/lang/System in Ljava/io/InputStream;
-      (Ljava/io/InputStream;)V	 
-    out Ljava/io/PrintStream;  Enter number
-       java/io/PrintStream print (Ljava/lang/String;)V
-      !  nextInt ()I
-  #  $ (I)V  & MultiplicationCount Code LineNumberTable main ([Ljava/lang/String;)V 
-StackMapTable 
-SourceFile MultiplicationCount.java ! %           '        *· ±    (        	 ) *  '   }     4»  Y² 	· L² ¶ +¶ =>>¢ ² ¶ "`>„§ÿì±    (   & 	    
-        
- " 
- )  - 
- 3  +   
- þ      ,    -

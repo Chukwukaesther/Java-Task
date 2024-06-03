@@ -6,10 +6,10 @@ public class AutomaticBike {
     private int speed;
 
 
-//    public AutomaticBike(Boolean isOn, int speed){
-//        this.isOn = isOn;
-//        this.speed = speed;
-//    }
+  //public AutomaticBike(Boolean isOn, int speed){
+      //this.isOn = isOn;
+      //this.speed = speed;
+   //}
 
     public void setIsOn(boolean isOff) {
         this.isOn = isOff;

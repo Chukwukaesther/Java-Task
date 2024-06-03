@@ -1,14 +1,0 @@
-Êþº¾   A #
-       java/lang/Object <init> ()V	  	  
- 
-  java/lang/System out Ljava/io/PrintStream;   
-       java/io/PrintStream print (Ljava/lang/String;)V  *
-      println   Asterics Code LineNumberTable main ([Ljava/lang/String;)V 
-StackMapTable 
-SourceFile 
-Asterics.java !                    *· ±            ‰       |     2
-<¡ ,=£ ²  
-¶ ²  ¶ „§ÿè²  ¶ „ÿ§ÿÕ±       "              % 
- +  1 
-      ü ü ú ú 
-  !    "
